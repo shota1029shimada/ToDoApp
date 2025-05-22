@@ -1,4 +1,5 @@
 package todo;
+//一覧表示(Read)
 
 import java.util.ArrayList;//可変長の配列を使用可能
 import java.util.Scanner; //ユーザーからの入力を受け取るためのクラス
