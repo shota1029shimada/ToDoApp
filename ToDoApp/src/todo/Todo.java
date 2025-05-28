@@ -1,5 +1,6 @@
 package todo;
-
+//ToDoの1件を表す「設計図」。タイトルなどの情報を保持するクラス。
+//データの保存と取り出し担当
 public class Todo {
     private String title;        //Todo項目のタイトルを格納するための文字列型のフィールド
     private boolean completed;   //Todo項目が完了しているかどうかを示す真偽値型のフィールド
